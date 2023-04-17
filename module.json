@@ -26,12 +26,15 @@
       "ko-fi": "https://ko-fi.com/jeansenvaars",
       "reddit": "u/JeansenVaars"
     }
-  ],
-  "dependencies": [
-    {
-        "name": "lib-wrapper"
-    }
-  ],
+  ],"relationships": {
+    "systems": [],
+    "requires": [
+      {
+        "id": "lib-wrapper",
+        "type": "module"
+      }
+    ]
+  },
   "esmodules": [
     "/scripts/module.js"
   ],
