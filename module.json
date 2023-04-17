@@ -1,7 +1,7 @@
 {
-  "id": "module",
-  "title": "New Module",
-  "description": "",
+  "id": "my-journal-scaler",
+  "title": "My Journal Scaler",
+  "description": "Adaptation of jegasus' <kbd>Journal Scaler</kbd> for V10 compliance, with a reduced zoom effect on hx tags",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
@@ -12,30 +12,28 @@
   },
   "authors": [
     {
+      "name":"jegasus",
+      "discord":"jegasus#1367"
+    },
+    {
       "name": "The League of Extraordinary FVTT Developers",
       "url": "https://github.com/League-of-Foundry-Developers",
       "discord": "discordID#0001"
-    }
-  ],
-  "relationships": {
-    "systems": [],
-    "requires": []
-  },
-  "esmodules": [
-    "scripts/module.js"
-  ],
-  "scripts": [
-    "scripts/lib/lib.js"
-  ],
-  "styles": [
-    "styles/module.css"
-  ],
-  "languages": [
+    },
     {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
+      "name": "JeansenVaars",
+      "discord": "JeansenVaars#2857",
+      "ko-fi": "https://ko-fi.com/jeansenvaars",
+      "reddit": "u/JeansenVaars"
     }
+  ],
+  "dependencies": [
+    {
+        "name": "lib-wrapper"
+    }
+  ],
+  "esmodules": [
+    "/scripts/module.js"
   ],
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
