@@ -14,8 +14,7 @@ Adaptation of jegasus' <kbd>Journal Scaler</kbd> module for some V10 compliance,
 For personnal use, sharing with my DMs and acquaintances.<br>
 A good way to train in coding.
 
-### Original README from initial author, jegasus, hidden from here.
-<!--
+<details><summary>Original README from initial author, jegasus, hidden from here.</summary>
 ![](https://img.shields.io/badge/Foundry-v9-informational)
 ![GitHub All Releases](https://img.shields.io/github/downloads/jegasus/journal-scaler/total?label=Downloads+total)  
 ![Latest Release Download Count](https://img.shields.io/github/downloads/jegasus/journal-scaler/latest/module.zip?label=Downloads+latest+release) 
@@ -87,13 +86,11 @@ This module relied heavily on [The League of Foundry Developer's FoundryVTT Modu
 This module uses [ruipin's libWrapper library](https://github.com/ruipin/fvtt-lib-wrapper). Take a look at his stuff if you want to develop modules for FVTT that override its default behaviors.
 
 ## JeansenVaars
-Special thanks to [JeansenVaars](https://github.com/saif-ellafi) (Discord user JeansenVaars#2857) who generously provided the code for the journal image zoom functinality. 
+Special thanks to [JeansenVaars](https://github.com/saif-ellafi) (Discord user JeansenVaars#2857) who generously provided the code for the journal image zoom functinality.
+</details>
 
-
--->
-
-### League-of-Foundry-Developers README hidden from here
-<!--# How to use this Template to create a versioned Release
+<details> <summary> League-of-Foundry-Developers README hidden from here </summary>
+# How to use this Template to create a versioned Release
 
 1. Open your repository's releases page.
 
@@ -153,4 +150,5 @@ Clicking "Save" in the bottom right will save the new version, which means that 
 
 Does something, probably
 
-## Changelog-->
+## Changelog
+</details>
