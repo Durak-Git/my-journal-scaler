@@ -1,6 +1,7 @@
 ![](https://img.shields.io/badge/Foundry-v10-informational)
 
-https://github.com/Durak-Git/my-journal-scaler/releases/latest/download/module.json
+    https://github.com/Durak-Git/my-journal-scaler/releases/latest/download/module.json
+
 <!--- Downloads @ Latest Badge -->
 <!--- replace <user>/<repo> with your username/repository -->
 ![Latest Release Download Count](https://img.shields.io/github/downloads/Durak-Git/my-journal-scaler/latest/module.zip)
